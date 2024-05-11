@@ -1,3 +1,4 @@
 # Machine_Learning
-First part of the notebook is consist of Data preprocessing and application of various machine learning model.
-In the Second part, LSTM architecture is used to perform sentimental Analysis
+The first part of the notebook consists of Data preprocessing and the application of various machine-learning models.
+
+In the Second part, LSTM architecture is used to perform a sentimental Analysis
